@@ -6,3 +6,5 @@ Fork of [whatsapp-chrome](https://github.com/julman99/whatsapp-chrome) [version 
 [Download CRX](https://raw.githubusercontent.com/Nimityx/degoogled-whatschrome/main/degoogled-whatschrome-0.8.0.crx)
 
 [Download ZIP](https://raw.githubusercontent.com/Nimityx/degoogled-whatschrome/main/degoogled-whatschrome-0.8.0.zip)
+
+[Report Bugs](https://github.com/Nimityx/degoogled-whatschrome/issues)
